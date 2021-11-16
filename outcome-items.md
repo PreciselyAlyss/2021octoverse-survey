@@ -57,7 +57,7 @@
 | Software development is satisfying to me <ul><li>Never</li><li>Rarely</li><li>Sometimes</li><li>Often</li><li>Always</li></ul>|
 | I feel empowered when dealing with difficult problems in my team <ul><li>Never</li><li>Rarely</li><li>Sometimes</li><li>Often</li><li>Always</li></ul>|
 | Doing development at work or in my open source projects is meaningful to me <ul><li>Never</li><li>Rarely</li><li>Sometimes</li><li>Often</li><li>Always</li></ul>|
-| When I write code or work with my taem, I feel like I'm making valuable contributions <ul><li>Never</li><li>Rarely</li><li>Sometimes</li><li>Often</li><li>Always</li></ul>|
+| When I write code or work with my team, I feel like I'm making valuable contributions <ul><li>Never</li><li>Rarely</li><li>Sometimes</li><li>Often</li><li>Always</li></ul>|
 ## Identify with the team/community and its mission
 |Survey item|
 |---|
